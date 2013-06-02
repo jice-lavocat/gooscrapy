@@ -1,0 +1,21 @@
+GooScraPy
+
+  What is it?
+  -----------
+
+  GooScraPy is a Google scrapper written in Python, based on randomly time-spaced queries and usinge multi-agents and multi-datacenters to avoid being flagged as a spammer.
+
+  The Latest Version
+  ------------------
+
+  Details of the latest version can be found on the public GitHub repository : 
+
+  Documentation
+  -------------
+
+  The documentation available in the README.
+
+  Requierements
+  ------------
+
+  Use Python 2.7.
