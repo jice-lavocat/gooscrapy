@@ -8,7 +8,8 @@ GooScraPy
   The Latest Version
   ------------------
 
-  Details of the latest version can be found on the public GitHub repository : 
+  Details of the latest version can be found on the public GitHub repository : https://github.com/tanzaho/gooscrapy
+  
 
   Documentation
   -------------
@@ -19,3 +20,7 @@ GooScraPy
   ------------
 
   Use Python 2.7.
+ 
+  Authors and Contact
+  -------------------
+  GooScrapy has been written by Jean-Christophe Lavocat (jice@lavocat.name). 
