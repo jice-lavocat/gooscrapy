@@ -20,7 +20,18 @@ GooScraPy
   ------------
 
   Use Python 2.7.
+  BeautifulSoup
+  Urllib2
  
   Authors and Contact
   -------------------
   GooScrapy has been written by Jean-Christophe Lavocat (jice@lavocat.name). 
+  
+  ToDo
+  ----
+  Split into subfunctions
+  Add more options to the scrapper
+  
+  Changelog
+  ---------
+  

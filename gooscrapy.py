@@ -1,13 +1,7 @@
 #!/usr/bin/python
 # -*- coding: latin-1 -*-
-'''Saves the result of a google query for a given query into a CSV
-
-DONE : 
--- Format the csv file to save :
- * domain | url | keyword_searched_for | serp | city | job
-ex : graphemeride.com | http://www.graphemeride.com/contact | seo+france+inurl:contact | 2 | Paris | seo
-TODO : 
--- Automatize for all main US city
+'''
+Simple Google scraper in Python
 '''
 
 import sys # Used to add the BeautifulSoup folder the import path
